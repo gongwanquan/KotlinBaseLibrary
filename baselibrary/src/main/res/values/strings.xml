@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BaseLibrary</string>
+
+    <string name="error_type_connect">网络连接失败</string>
+    <string name="error_type_data">数据解析错误</string>
+    <string name="error_type_login">用户未登录或者已在其它客户端登陆</string>
+    <string name="error_type_auth">您没有该操作权限</string>
+    <string name="error_type_server">服务器错误</string>
+    <string name="error_type_other">请求失败，请稍后重试</string>
+
+    <string name="file_type_cannot_view">文件格式不支持预览</string>
+    <string name="file_not_exist">实体文件不存在</string>
+
+    <string name="base_confirm">确认</string>
+    <string name="base_cancel">取消</string>
+
+</resources>

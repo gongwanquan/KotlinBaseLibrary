@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_title_bar_bg">#ffffff</color>
+    <color name="color_title_bar_text">#1a1a1a</color>
+    <color name="color_title_bar_action_text">#646464</color>
+
+    <color name="color_first_level">#323232</color>
+    <color name="color_second_level">#646464</color>
+    <color name="color_third_level">#999999</color>
+    <color name="color_fourth_level">#cccccc</color>
+    <color name="color_divider">#e6e6e6</color>
+
+    <color name="color_blue">#0074de</color>
+</resources>
